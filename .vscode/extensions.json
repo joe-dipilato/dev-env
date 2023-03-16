@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "felipecaputo.git-project-manager",
+        "bazelbuild.vscode-bazel",
+        "ms-azuretools.vscode-docker",
+        "github.codespaces",
+        "github.vscode-pull-request-github",
+        "eamodio.gitlens",
+        "davidanson.vscode-markdownlint",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+    ]
+}
