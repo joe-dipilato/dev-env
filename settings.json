@@ -1,5 +1,11 @@
 {
     "security.workspace.trust.untrustedFiles": "open",
     "terminal.integrated.fontFamily": "'FiraCode Nerd Font'",
-    "projectManager.git.baseFolders": ["~/repos"]
+    "projectManager.git.baseFolders": [
+        "~/repos"
+    ],
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": false
 }
