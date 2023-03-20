@@ -7,3 +7,5 @@ ln -s ${BASEDIR}/settings.json ~/Library/Application\ Support/Code/User/settings
 # Starship
 mkdir -p ~/.config
 ln -s ${BASEDIR}/starship.toml ~/.config/
+
+# source <(kubectl completion zsh)
